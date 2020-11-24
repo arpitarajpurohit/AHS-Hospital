@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a04384fd-a09b-46ce-83df-2228d21bbda0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ashHospital-Satish.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report/embedded0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-json-report.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-json-report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/ashHospital-Satish.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/regression/BrowserFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/regression/BrowserFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/regression/MyStepdefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/regression/MyStepdefs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/regression/PageObject/GroupTestPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/regression/PageObject/GroupTestPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/regression/PageObject/MastersPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/regression/PageObject/MastersPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/regression/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/regression/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/regression/superAdmin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/regression/superAdmin.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kjwCZmxsj3IsDDaFghnZfE9kXc" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All in ashHospital" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ashHospital" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ashHospital" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a04384fd-a09b-46ce-83df-2228d21bbda0" name="Default Changelist" comment="" />
+      <created>1606227181723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606227181723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="215" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606228013072">
+      <screen x="62" y="23" width="1378" height="877" />
+    </state>
+    <state x="215" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.23.1378.877@62.23.1378.877" timestamp="1606228013072" />
+    <state x="538" y="152" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1606227975035">
+      <screen x="62" y="23" width="1378" height="877" />
+    </state>
+    <state x="538" y="152" key="#com.intellij.ide.macro.MacrosDialog/62.23.1378.877@62.23.1378.877" timestamp="1606227975035" />
+    <state x="328" y="23" key="CommitChangelistDialog2" timestamp="1606227762657">
+      <screen x="62" y="23" width="1378" height="877" />
+    </state>
+    <state x="328" y="23" key="CommitChangelistDialog2/62.23.1378.877@62.23.1378.877" timestamp="1606227762657" />
+    <state width="1398" height="418" key="GridCell.Tab.0.bottom" timestamp="1606228143798">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="418" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606228143798" />
+    <state width="1336" height="268" key="GridCell.Tab.0.bottom/62.23.1378.877@62.23.1378.877" timestamp="1606228040068" />
+    <state width="1398" height="418" key="GridCell.Tab.0.center" timestamp="1606228143797">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="418" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606228143797" />
+    <state width="1336" height="268" key="GridCell.Tab.0.center/62.23.1378.877@62.23.1378.877" timestamp="1606228040068" />
+    <state width="1398" height="418" key="GridCell.Tab.0.left" timestamp="1606228143796">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="418" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606228143796" />
+    <state width="1336" height="268" key="GridCell.Tab.0.left/62.23.1378.877@62.23.1378.877" timestamp="1606228040067" />
+    <state width="1398" height="418" key="GridCell.Tab.0.right" timestamp="1606228143798">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="418" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606228143798" />
+    <state width="1336" height="268" key="GridCell.Tab.0.right/62.23.1378.877@62.23.1378.877" timestamp="1606228040068" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ashHospital$All_in_ashHospital.ic" NAME="All in ashHospital Coverage Results" MODIFIED="1606228040032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
